@@ -1,5 +1,5 @@
 var script = document.createElement('script');
-var appid = "ae483ebbeef46869aa7c8181432ba7d1";
+var appid = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx";
 
 function parseResponse(response){
   $("#city").html("Weather in " + response.city.name);

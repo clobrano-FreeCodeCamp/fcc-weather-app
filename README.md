@@ -1,6 +1,10 @@
 # FreeCodeCamp challenge "Show the Local Weather"
 
-I can't really show the result on services like RawGit, because OpenWheatherMap API are http only and your browser will complain about "mixed contents" (which is expected).
+[CodePen](https://codepen.io/clobrano/pen/wGrbgo)
+
+Update: 2017-05-28: For some reason, CodePen does not show anymore the weather, while the data is received from OpenWeatherMap and then parsed. Locally, this still works, but "works for me" is not the best answer. I'm going to fix this behavior in the next days.
+
+Moreover, I can't really show the result on services like RawGit, because OpenWheatherMap API are http only and your browser will complain about "mixed contents" (which is expected).
 
 Fixing "mixed content" issue is not required at this point.
 
